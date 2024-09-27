@@ -1,2 +1,2 @@
 # learning
-acc / self learning github usages
+acc / self learning github usage
